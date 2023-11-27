@@ -7,7 +7,7 @@
 
 # testing
 /coverage
-
+/logo.svg
 # production
 /build
 
